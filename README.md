@@ -1,4 +1,5 @@
 #### n deu certo enviar para o vecel apartir do codesandBOX
+#### deploys [vercel](https://first-exercise-to-vercel.vercel.app/) [netlify]()
 #### mas fiz desafio , criar componente `<Buttonn.js>` do arquivo `Buttonn.js`
 
 ```Construir em react toda vez que o botao é clicado pelo usuáriuo , ele muda de nome. E não vale usar hook ---UseEffect()```
