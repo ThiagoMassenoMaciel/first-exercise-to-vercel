@@ -4,16 +4,16 @@
 ```Construir em react toda vez que o botao é clicado pelo usuáriuo , ele muda de nome. E não vale usar hook ---UseEffect()
 ```
 
-*desktop*</br>
+##### *desktop*</br>
 ![image](https://github.com/user-attachments/assets/3b776497-527e-4c65-bf5b-1814197f2036)
 
-*zoom*</br>
+##### *zoom*</br>
 ![image](https://github.com/user-attachments/assets/9e67cfa2-0035-4429-8bb4-c05946ae0aaa)
 
-*tablet* 
+##### *tablet* </br>
 ![image](https://github.com/user-attachments/assets/11e174e9-22ba-4d3c-ab46-68c8825e53fe)
 
-*mobile*
+##### *mobile*</br>
 ![image](https://github.com/user-attachments/assets/ad30aa8a-a287-4034-8e3a-2b72823a9147)
 
 #### Explicação devTools + React Tools
