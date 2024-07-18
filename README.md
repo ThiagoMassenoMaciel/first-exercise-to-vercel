@@ -1,9 +1,8 @@
-<body style="color: blue;">
+<body style="background-color: blue;">
   #### n deu certo enviar para o vecel apartir do codesandBOX
 #### mas fiz desafio , criar componente `<Buttonn.js>` do arquivo `Buttonn.js`
 
-```Construir em react toda vez que o botao é clicado pelo usuáriuo , ele muda de nome. E não vale usar hook ---UseEffect()
-```
+```Construir em react toda vez que o botao é clicado pelo usuáriuo , ele muda de nome. E não vale usar hook ---UseEffect()```
 
 ##### *desktop*</br>
 ![image](https://github.com/user-attachments/assets/3b776497-527e-4c65-bf5b-1814197f2036)
