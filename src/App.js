@@ -1,5 +1,6 @@
 import "./styles.css";
 import Button from "./Button";
+import Buttonn from "./Buttonn";
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
         e de programado no codesandBOX eu diretamente publiquei no netlify
       </h2>
       <Button />
+      <Buttonn />
     </div>
   );
 }
