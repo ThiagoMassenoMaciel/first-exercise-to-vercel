@@ -18,8 +18,8 @@
 
 #### Explicação devTools + React Tools
 #### v1 - `versao 1.0` era `apenas muda o nome depois de apertar  primeira vez`
-https://github.com/user-attachments/assets/cbbe7178-1c09-411a-a6c2-2c1f8a2ff84c
-`devtools + reactTools`
+https://github.com/user-attachments/assets/cbbe7178-1c09-411a-a6c2-2c1f8a2ff84c</br>
+`devtools + reactTools`</br>
 https://github.com/user-attachments/assets/5d43b782-0462-4231-96c4-bb3168fc5a0e
 
 #### v2 - devtools + reactTools `versao 2` é assim `enquanto for apertando , vai mudando o nome`
